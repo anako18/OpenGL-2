@@ -1,0 +1,67 @@
+﻿Сборка начата 26.12.2017 12:56:16.
+     1>Проект "C:\Users\Настя\Documents\Visual Studio 2015\Projects\opengl2\opengl2.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\Visual Studio\VC\bin\CL.exe /c /I"C:\Users\Настя\Downloads\Glew and Glut\freeglut\include" /I"C:\Users\Настя\Downloads\Glew and Glut\glew-1.11.0\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(75): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(75): warning C4305: инициализация: усечение из "double" к "GLfloat"
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(77): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(77): warning C4305: инициализация: усечение из "double" к "GLfloat"
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(90): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(90): warning C4305: инициализация: усечение из "double" к "GLfloat"
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(99): warning C4305: аргумент: усечение из "double" к "GLfloat"
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(107): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(107): warning C4305: инициализация: усечение из "double" к "GLfloat"
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(133): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(134): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(135): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(146): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(152): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(153): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(155): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(156): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(164): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(165): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(166): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(177): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(177): warning C4305: инициализация: усечение из "double" к "GLfloat"
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(178): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(178): warning C4305: инициализация: усечение из "double" к "GLfloat"
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(179): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(179): warning C4305: инициализация: усечение из "double" к "GLfloat"
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(184): warning C4305: аргумент: усечение из "double" к "GLfloat"
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(185): warning C4305: аргумент: усечение из "double" к "GLfloat"
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(186): warning C4305: аргумент: усечение из "double" к "GLfloat"
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(189): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(190): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(191): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(198): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(198): warning C4305: инициализация: усечение из "double" к "GLfloat"
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(199): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(199): warning C4305: инициализация: усечение из "double" к "GLfloat"
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(200): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(200): warning C4305: инициализация: усечение из "double" к "GLfloat"
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(205): warning C4305: аргумент: усечение из "double" к "GLfloat"
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(210): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(211): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(212): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(219): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(219): warning C4305: инициализация: усечение из "double" к "GLfloat"
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(220): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(220): warning C4305: инициализация: усечение из "double" к "GLfloat"
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(221): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(221): warning C4305: инициализация: усечение из "double" к "GLfloat"
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(225): warning C4305: аргумент: усечение из "double" к "GLfloat"
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(226): warning C4305: аргумент: усечение из "double" к "GLfloat"
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(227): warning C4305: аргумент: усечение из "double" к "GLfloat"
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(230): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(231): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\users\настя\documents\visual studio 2015\projects\opengl2\main.cpp(232): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+       Link:
+         D:\Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Настя\Documents\Visual Studio 2015\Projects\opengl2\Debug\opengl2.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\Настя\Downloads\Glew and Glut\freeglut\lib" /LIBPATH:"C:\Users\Настя\Downloads\Glew and Glut\glew-1.11.0\lib" freeglut.lib glew32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Настя\Documents\Visual Studio 2015\Projects\opengl2\Debug\opengl2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Настя\Documents\Visual Studio 2015\Projects\opengl2\Debug\opengl2.lib" /MACHINE:X86 Debug\main.obj
+         opengl2.vcxproj -> C:\Users\Настя\Documents\Visual Studio 2015\Projects\opengl2\Debug\opengl2.exe
+     1>Сборка проекта "C:\Users\Настя\Documents\Visual Studio 2015\Projects\opengl2\opengl2.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.39
